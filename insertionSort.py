@@ -7,5 +7,6 @@ def insSort(A):
             print(A)
             akt = akt - 1
 
+#przykladowe sortowanie tablicy
 X = [3,5,6,1,2,4]
 insSort(X)
